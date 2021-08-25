@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Tovar</h1>
+<h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **JS, ReactJS**
